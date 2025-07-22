@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Harsh
 
-💻 Software Engineer | Full-Stack Developer | AI
-📍 Based in India | Building cool things in public
+💻 A passionate developer exploring the world of tech and building cool things.
+
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -14,6 +14,20 @@
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight)](https://git.io/streak-stats)
+
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&count_private=true&theme=tokyonight" 
+    alt="GitHub Stats" width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=tokyonight" 
+    alt="GitHub Streak" width="48%" 
+  />
+</p>
 
 
 ## 📫 Connect With Me
