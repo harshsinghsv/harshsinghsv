@@ -9,11 +9,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-## 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### 🔥 My GitHub Stats
