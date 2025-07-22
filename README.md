@@ -32,7 +32,7 @@
     </td>
     <td>
       <a href="https://x.com/harshsinghsv" target="_blank">
-        <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white&label=" />
+        <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white" />
       </a>
     </td>
   </tr>
