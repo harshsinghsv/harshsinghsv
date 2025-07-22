@@ -16,18 +16,19 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight)](https://git.io/streak-stats)
 
 
-## 📫 Connect With Me on
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:harshsinghsv@hotmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harshsinghsv" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/harshsinghsv" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 
 
