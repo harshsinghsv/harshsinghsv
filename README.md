@@ -10,19 +10,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 
-
 ### 🔥 My GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&count_private=true&theme=tokyonight" 
-    alt="GitHub Stats" width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=tokyonight" 
-    alt="GitHub Streak" width="48%" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&count_private=true&theme=tokyonight)
+
+---
+
+### 🔁 GitHub Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=tokyonight)
 
 
 ## 📫 Connect With Me
