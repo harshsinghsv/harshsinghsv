@@ -18,17 +18,26 @@
 
 ## 📫 Connect With Me
 
-<div align="left">
-  <a href="mailto:harshsinghsv@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harshsinghsv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/harshsinghsv" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:harshsinghsv@hotmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/harshsinghsv" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/harshsinghsv" target="_blank">
+        <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white&label=" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
