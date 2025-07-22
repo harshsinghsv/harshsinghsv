@@ -13,7 +13,7 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh2004&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Let’s Connect
 
