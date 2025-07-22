@@ -15,8 +15,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/harshsinghsv)
-- 📧 harsh@email.com
-- 🧠 [Twitter / X](https://twitter.com/harshsinghsv)
+## 📫 Connect With Me on
+
+<p align="left">
+  <a href="https://linkedin.com/in/harshsinghsv" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/harshsinghsv" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
