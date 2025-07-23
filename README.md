@@ -18,7 +18,8 @@
 
 ### 🔁 GitHub Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshsinghsv&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=harshsinghsv&theme=tokyonight)
+
 
 
 
