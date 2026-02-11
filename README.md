@@ -68,29 +68,3 @@
 </p>
 
 ---
-
-## 🎨 Latest Work
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Check%20Out%20My%20Repos!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</p>
-
----
-
-<h3 align="center">💬 Let's Connect and Build Something Amazing!</h3>
-
-<p align="center">
-  <a href="mailto:harshsinghsv@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" />
-  </a>
-  <a href="https://linkedin.com/in/harshsinghsv">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/harshsinghsv">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
