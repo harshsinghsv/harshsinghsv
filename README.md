@@ -57,30 +57,6 @@ const harsh = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsinghsv&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-## 💼 What I'm Working On
-
-- 🔭 Building scalable web applications with modern frameworks
-- 🌱 Deepening my knowledge in system design and cloud architecture
-- 👯 Open to collaborate on innovative open-source projects
-- 💬 Ask me about React, Node.js, or anything web development
-- ⚡ Always exploring new technologies and best practices
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
 ## 🎯 Current Goals
 
 - [ ] Contribute to more open-source projects
