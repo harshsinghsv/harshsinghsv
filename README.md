@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=2000&pause=100&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=HARSH+SINGH" alt="Harsh Singh" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=90&duration=1500&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=HARSH+SINGH" alt="Harsh Singh" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Building+Digital+Experiences" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -68,3 +68,29 @@
 </p>
 
 ---
+
+## 🎨 Latest Work
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Check%20Out%20My%20Repos!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</p>
+
+---
+
+<h3 align="center">💬 Let's Connect and Build Something Amazing!</h3>
+
+<p align="center">
+  <a href="mailto:harshsinghsv@hotmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" />
+  </a>
+  <a href="https://linkedin.com/in/harshsinghsv">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/harshsinghsv">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
