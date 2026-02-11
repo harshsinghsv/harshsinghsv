@@ -61,65 +61,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harshsinghsv&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsinghsv&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/harshsinghsv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshsinghsv&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/harshsinghsv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshsinghsv&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo 2"/>
-  </a>
-</p>
-
----
-
-## 🎯 Current Focus
-```mermaid
-mindmap
-  root((Harsh))
-    Learning
-      System Design
-      Cloud Computing
-      DevOps
-    Building
-      SaaS Products
-      Open Source
-      Web Apps
-    Exploring
-      AI Integration
-      Microservices
-      Performance Optimization
-```
-
----
-
 ## 💻 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
