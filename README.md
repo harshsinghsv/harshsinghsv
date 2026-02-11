@@ -1,137 +1,109 @@
 <div align="center">
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗  ║
-║   ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║  ║
-║   ███████║███████║██████╔╝███████╗███████║    ███████╗██║██╔██╗ ██║██║  ███╗███████║  ║
-║   ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║  ║
-║   ██║  ██║██║  ██║██║  ██║███████║██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║  ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝  ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+```ascii
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗                 │
+│   ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║                 │
+│   ███████║███████║██████╔╝███████╗███████║                 │
+│   ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║                 │
+│   ██║  ██║██║  ██║██║  ██║███████║██║  ██║                 │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                 │
+│                                                              │
+│              Full-Stack Developer | Tech Enthusiast          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
-```console
-harsh@github:~$ whoami
+```bash
+$ whoami
 ```
-
-**Full-Stack Developer** | Building scalable web applications
-```console
-harsh@github:~$ ls -la skills/
+> Full-Stack Developer building modern web applications
+```bash
+$ ls projects/
 ```
 ```
-drwxr-xr-x  5 harsh  dev   160 Feb 11 2026  .
-drwxr-xr-x  8 harsh  dev   256 Feb 11 2026  ..
--rw-r--r--  1 harsh  dev  2048 Feb 11 2026  frontend.json
--rw-r--r--  1 harsh  dev  1536 Feb 11 2026  backend.json
--rw-r--r--  1 harsh  dev  1024 Feb 11 2026  tools.json
+frontend/    backend/    learning/    tools/
 ```
-```console
-harsh@github:~$ cat skills/frontend.json
+```bash
+$ cat skills/frontend.json
 ```
 ```json
 {
   "languages": ["JavaScript", "HTML5", "CSS3"],
   "frameworks": ["React", "TailwindCSS"],
-  "learning": ["TypeScript", "Next.js"]
+  "currently_learning": ["TypeScript", "Next.js"]
 }
 ```
-```console
-harsh@github:~$ cat skills/backend.json
+```bash
+$ cat skills/backend.json
 ```
 ```json
 {
-  "runtime": ["Node.js"],
+  "runtime": "Node.js",
   "frameworks": ["Express"],
   "databases": ["MongoDB"],
-  "learning": ["PostgreSQL", "Redis"]
+  "exploring": ["PostgreSQL", "Redis"]
 }
 ```
-```console
-harsh@github:~$ cat skills/tools.json
+```bash
+$ cat skills/tools.json
 ```
 ```json
 {
   "version_control": ["Git", "GitHub"],
-  "editors": ["VS Code"],
-  "api_testing": ["Postman"],
-  "deployment": ["Vercel", "Heroku"]
+  "editor": "VS Code",
+  "api_testing": "Postman"
 }
 ```
-```console
-harsh@github:~$ cat about.txt
-```
-```
-Passionate developer focused on building modern web applications.
-Currently exploring system design, cloud architecture, and DevOps.
-Always open to collaborating on innovative projects.
-```
-```console
-harsh@github:~$ ./get_github_stats.sh
+```bash
+$ ./github-stats.sh --show-all
 ```
 
 <div align="center">
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                          GITHUB STATISTICS                             ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true" width="48%" />
+![Stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="70%" />
-```
-════════════════════════════════════════════════════════════════════════
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
-```console
-harsh@github:~$ cat current_focus.log
+```bash
+$ cat current_status.log
 ```
 ```
-[2026-02-11 10:30:15] Building scalable web applications
-[2026-02-11 10:30:16] Learning system design patterns
-[2026-02-11 10:30:17] Exploring cloud computing & DevOps
-[2026-02-11 10:30:18] Contributing to open-source projects
+[INFO] Building scalable web applications
+[INFO] Learning system design and cloud architecture  
+[INFO] Open to collaborate on innovative projects
+[INFO] Exploring DevOps and containerization
 ```
-```console
-harsh@github:~$ curl https://api.harsh.dev/connect
+```bash
+$ curl -X GET https://harsh.dev/connect
 ```
 ```json
 {
-  "status": "200 OK",
-  "message": "Connection established",
-  "endpoints": {
+  "status": 200,
+  "contact": {
     "email": "harshsinghsv@hotmail.com",
-    "linkedin": "https://linkedin.com/in/harshsinghsv",
-    "twitter": "https://x.com/harshsinghsv"
+    "linkedin": "linkedin.com/in/harshsinghsv",
+    "twitter": "x.com/harshsinghsv"
   }
 }
-```
-```console
-harsh@github:~$ echo $CONTACT
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshsinghsv@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/harshsinghsv)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:harshsinghsv@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/harshsinghsv)
 
 </div>
-```console
-harsh@github:~$ exit
+```bash
+$ exit
 ```
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  Thanks for visiting! Feel free to reach out for collaborations.      ║
-║  > Star repos you find interesting                                    ║
-║  > Open to pull requests and contributions                            ║
-╚═══════════════════════════════════════════════════════════════════════╝
-
+Thanks for stopping by! ⭐ Star repos if you find them useful
 Connection closed.
 ```
 
@@ -139,6 +111,6 @@ Connection closed.
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harshsinghsv&color=blue&style=flat-square&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=harshsinghsv&color=58a6ff&style=flat-square)
 
 </div>
