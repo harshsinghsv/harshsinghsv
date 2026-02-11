@@ -1,96 +1,40 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=90&duration=1500&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=HARSH+SINGH" alt="Harsh Singh" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Building+Digital+Experiences" alt="Typing SVG" />
-</h3>
+# Harsh Singh
 
-<p align="center">
-  <a href="mailto:harshsinghsv@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harshsinghsv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/harshsinghsv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+**Building digital experiences that matter**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshsinghsv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/harshsinghsv)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsinghsv@hotmail.com)
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 🚀 About Me
-
-- 🔭 Building **scalable web applications**
-- 🌱 Learning **System Design** & **Cloud Architecture**
-- 💡 Passionate about **clean code** & **user experience**
-- 🎯 Open to **collaborations** on innovative projects
-- ⚡ Fun fact: **I turn coffee into code**
-
-<br clear="right"/>
+### 🛠️ Tech Stack
+```text
+Frontend    React • Tailwind CSS
+Backend     Node.js • MongoDB
+Tools       Git
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=6" />
-</p>
+<div align="center">
 
-<details>
-<summary><b>📚 More Technologies</b></summary>
-<br>
+![](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
 
-**Frontend Magic**
-- ⚛️ React.js - Building interactive UIs
-- 🎨 Tailwind CSS - Rapid UI development
-- 📱 Responsive Design - Mobile-first approach
+![](https://github-readme-streak-stats-eight.vercel.app/?user=harshsinghsv&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9)
 
-**Backend Power**
-- 🟢 Node.js & Express - RESTful APIs
-- 🍃 MongoDB - NoSQL databases
-- 🔐 JWT Authentication
-
-**Developer Tools**
-- 🔧 Git & GitHub - Version control
-- 💻 VS Code - Code editor
-- 📮 Postman - API testing
-
-</details>
+</div>
 
 ---
 
-## 💻 Coding Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+*"Code is poetry written in logic"*
 
----
-
-## 🎨 Latest Work
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Check%20Out%20My%20Repos!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</p>
-
----
-
-<h3 align="center">💬 Let's Connect and Build Something Amazing!</h3>
-
-<p align="center">
-  <a href="mailto:harshsinghsv@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" />
-  </a>
-  <a href="https://linkedin.com/in/harshsinghsv">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/harshsinghsv">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+</div>
