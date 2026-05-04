@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HARSH%20SINGH&fontSize=82&color=0:00D9FF,50:7B2D8E,100:FF006E&stroke=00D9FF&strokeWidth=2&animation=twinkling&fontColor=fff&desc=%3E%20Full-Stack%20Dev%20%2F%2F%20UI%20Obsessive%20%2F%2F%20Perpetual%20Builder&descSize=17&descAlignY=67"/>
 </div>
 
@@ -216,4 +216,8 @@ jobs:
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=110&section=footer&animation=twinkling"/>
 </div>
+ -->
+
+
+ <img width="1366" height="2854" alt="image" src="https://github.com/user-attachments/assets/c1c43128-4755-413e-a3e2-3dbe95458637" />
 
