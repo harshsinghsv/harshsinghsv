@@ -216,8 +216,5 @@ jobs:
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=110&section=footer&animation=twinkling"/>
 </div>
- -->
 
-
- <img width="1366" height="2854" alt="image" src="https://github.com/user-attachments/assets/c1c43128-4755-413e-a3e2-3dbe95458637" />
 
