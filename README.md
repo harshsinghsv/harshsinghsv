@@ -269,15 +269,6 @@ I'm currently building **MatesVilla** — a location-aware roommate & room finde
 
 ---
 
-### <img src="https://api.iconify.design/solar/diploma-bold.svg?color=%2322c55e" width="20"/> Education
-
-| | |
-|---|---|
-| **B.Tech — Computer Science & Engineering** | `Sep 2024 – Jun 2028` |
-| UIET, Maharishi Dayanand University · **8.27 CGPA** | Rohtak, India |
-
----
-
 ### <img src="https://api.iconify.design/solar/case-round-bold.svg?color=%2322c55e" width="20"/> Experiences
 
 <br/>
@@ -295,7 +286,7 @@ I'm currently building **MatesVilla** — a location-aware roommate & room finde
 <br/>
 
 <img src="https://api.iconify.design/solar/buildings-bold.svg?color=%2322c55e" width="16"/> &nbsp; **React JS Intern** &nbsp; ![Internship](https://img.shields.io/badge/Internship-1f2937?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp; **Acceleration AI** &nbsp;·&nbsp; `Sep 2025 – Oct 2025` &nbsp;·&nbsp; Remote
+&nbsp;&nbsp;&nbsp;&nbsp; **Adceleration AI** &nbsp;·&nbsp; `Sep 2025 – Oct 2025` &nbsp;·&nbsp; Remote
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Developed a responsive landing page using **React.js**
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Built User and Admin Dashboards with reusable components and API integration
