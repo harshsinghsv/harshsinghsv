@@ -221,22 +221,29 @@ jobs:
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/harshsinghsv" width="80px" style="border-radius: 50%;" alt="Harsh Singh"/>
+<img src="https://avatars.githubusercontent.com/harshsinghsv" width="90px" style="border-radius: 50%;" alt="Harsh Singh"/>
+
+<br/>
 
 # Harsh Singh
 
 **Full Stack Developer · React · Node.js · Go**
 
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=harshsinghsv&color=22c55e&style=flat-square&label=profile+views)](https://github.com/harshsinghsv)
-
-Hey, I'm Harsh — a full stack developer who loves building clean, modern products where design, performance, and reliability all matter. I work across the entire stack, from crafting smooth UIs to architecting scalable backend systems.
-
-I'm currently building **MatesVilla** — a location-aware roommate & room finder platform.
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshsingh15dec@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Book%20Intro%20Call-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+*Hey, I'm Harsh — a full stack developer who loves building clean, modern products where design, performance, and reliability all matter. I work across the entire stack, from crafting smooth UIs to architecting scalable backend systems.*
+
+<br/>
+
+> Currently building **MatesVilla** — a location-aware roommate & room finder platform 🏠
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/harshsingh15dec@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsingh15dec@gmail.com)
 
 </div>
 
@@ -244,10 +251,12 @@ I'm currently building **MatesVilla** — a location-aware roommate & room finde
 
 <div align="center">
 
-### Here are my **socials**
+### <img src="https://api.iconify.design/solar/global-bold.svg?color=%2322c55e" width="18"/> &nbsp; Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshsinghsv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshsinghsv)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsingh15dec@gmail.com)
 
 </div>
@@ -256,127 +265,158 @@ I'm currently building **MatesVilla** — a location-aware roommate & room finde
 
 <div align="center">
 
-### <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2322c55e" width="22"/> GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=dark&background=0d1117&border=1f1f1f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)](https://github.com/harshsinghsv)
+### <img src="https://api.iconify.design/solar/chart-square-bold.svg?color=%2322c55e" width="18"/> &nbsp; GitHub Activity
 
 <br/>
 
-[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1f1f1f&icon_color=22c55e&title_color=ffffff&text_color=888888)](https://github.com/harshsinghsv)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1f1f1f&title_color=ffffff&text_color=888888)](https://github.com/harshsinghsv)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshsinghsv&theme=dark&background=0d1117&border=1f1f1f&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=888888&dates=888888&sideNums=ffffff)](https://github.com/harshsinghsv)
+
+<br/>
+
+[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1f1f1f&icon_color=22c55e&title_color=ffffff&text_color=888888&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/harshsinghsv)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1f1f1f&title_color=ffffff&text_color=888888&hide_border=false&langs_count=6)](https://github.com/harshsinghsv)
 
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/solar/case-round-bold.svg?color=%2322c55e" width="20"/> Experiences
+### <img src="https://api.iconify.design/solar/diploma-bold.svg?color=%2322c55e" width="18"/> &nbsp; Education
 
 <br/>
 
-<img src="https://api.iconify.design/solar/buildings-bold.svg?color=%2322c55e" width="16"/> &nbsp; **Backend / Full-Stack Intern** &nbsp; ![Internship](https://img.shields.io/badge/Internship-1f2937?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp; **Avianya Tech** &nbsp;·&nbsp; `Nov 2025 – Present` &nbsp;·&nbsp; Remote
+<img src="https://api.iconify.design/solar/buildings-3-bold.svg?color=%2322c55e" width="14"/> &nbsp; **B.Tech — Computer Science & Engineering** &nbsp; `Sep 2024 – Jun 2028`
 
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Built an Instagram Auto DM system in **Go** — webhooks, API integration, concurrent message processing
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Developed a **Node.js** email automation system for transactional and campaign emails
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Created a **React.js** frontend dashboard for email services — templates, campaigns, send status
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Integrated frontend with backend APIs focusing on authentication, validation, and reliability
-
-&nbsp;&nbsp;&nbsp;&nbsp; `Go` `Node.js` `React.js` `REST APIs` `Webhooks`
-
-<br/>
-
-<img src="https://api.iconify.design/solar/buildings-bold.svg?color=%2322c55e" width="16"/> &nbsp; **React JS Intern** &nbsp; ![Internship](https://img.shields.io/badge/Internship-1f2937?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp; **Adceleration AI** &nbsp;·&nbsp; `Sep 2025 – Oct 2025` &nbsp;·&nbsp; Remote
-
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Developed a responsive landing page using **React.js**
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23888888" width="12"/> Built User and Admin Dashboards with reusable components and API integration
-
-&nbsp;&nbsp;&nbsp;&nbsp; `React.js` `JavaScript` `REST APIs`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UIET, Maharishi Dayanand University &nbsp;·&nbsp; **8.27 CGPA** &nbsp;·&nbsp; Rohtak, India
 
 ---
 
-### <img src="https://api.iconify.design/solar/widget-bold.svg?color=%2322c55e" width="20"/> Projects
+### <img src="https://api.iconify.design/solar/case-round-bold.svg?color=%2322c55e" width="18"/> &nbsp; Experiences
+
+<br/>
+
+<img src="https://api.iconify.design/solar/buildings-bold.svg?color=%2322c55e" width="14"/> &nbsp; **Backend / Full-Stack Intern** &nbsp; ![Avianya Tech](https://img.shields.io/badge/Avianya_Tech-1a1a2e?style=flat-square) &nbsp; `Nov 2025 – Present` &nbsp; · &nbsp; Remote
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Built an **Instagram Auto DM** system in Go — webhooks, API integration, concurrent message processing
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Developed a **Node.js** email automation system for transactional and campaign emails
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Created a **React.js** dashboard for email services — templates, campaigns, send status
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Integrated frontend with backend APIs focusing on auth, validation, and reliability
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-6D28D9?style=flat-square)
+
+<br/>
+
+---
+
+<img src="https://api.iconify.design/solar/buildings-bold.svg?color=%2322c55e" width="14"/> &nbsp; **React JS Intern** &nbsp; ![Acceleration AI](https://img.shields.io/badge/Acceleration_AI-1a1a2e?style=flat-square) &nbsp; `Sep 2025 – Oct 2025` &nbsp; · &nbsp; Remote
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Developed a responsive landing page using **React.js**
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%2322c55e" width="12"/> &nbsp; Built User and Admin Dashboards with reusable components and API integration
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### <img src="https://api.iconify.design/solar/widget-bold.svg?color=%2322c55e" width="18"/> &nbsp; Projects
 
 <br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-<img src="https://api.iconify.design/solar/map-point-bold.svg?color=%2322c55e" width="16"/> &nbsp; **MatesVilla** &nbsp; ![Live](https://img.shields.io/badge/●%20Live-22c55e?style=flat-square)
+<img src="https://api.iconify.design/solar/map-point-bold.svg?color=%2322c55e" width="14"/> &nbsp; **MatesVilla** &nbsp; &nbsp; ![Live](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
 
 **Room & Roommate Finder Platform**
 
-Location-aware roommate discovery with a map-first search experience. Geocoding, radius-based filtering, and direct messaging between users.
+<sub>Location-aware discovery with map-first search, geocoding, radius-based filtering, and direct user communication.</sub>
 
-`Go` `PostgreSQL` `React.js` `Maps API`
+<br/>
 
-[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%23888888" width="14"/> View Project](https://github.com/harshsinghsv)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
+<br/>
+
+[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%2322c55e" width="13"/> &nbsp; **View Project**](https://github.com/harshsinghsv)
+
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-<img src="https://api.iconify.design/solar/bag-bold.svg?color=%2322c55e" width="16"/> &nbsp; **Muxury** &nbsp; ![Live](https://img.shields.io/badge/●%20Live-22c55e?style=flat-square)
+<img src="https://api.iconify.design/solar/bag-bold.svg?color=%2322c55e" width="14"/> &nbsp; **Muxury** &nbsp; &nbsp; ![Live](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
 
 **Full Stack E-commerce Platform**
 
-Full-stack luxury e-commerce with product browsing, cart management, secure checkout, category filtering, and deal timers.
+<sub>Luxury e-commerce with product browsing, cart, secure checkout, category filtering, deal timers, and responsive UI.</sub>
 
-`React.js` `Node.js` `PostgreSQL` `JWT`
+<br/>
 
-[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%23888888" width="14"/> View Project](https://github.com/harshsinghsv)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+<br/>
+
+[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%2322c55e" width="13"/> &nbsp; **View Project**](https://github.com/harshsinghsv)
+
+<br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-<img src="https://api.iconify.design/solar/code-scan-bold.svg?color=%2322c55e" width="16"/> &nbsp; **GitSaga** &nbsp; ![Building](https://img.shields.io/badge/●%20Building-eab308?style=flat-square)
+<img src="https://api.iconify.design/solar/code-scan-bold.svg?color=%23eab308" width="14"/> &nbsp; **GitSaga** &nbsp; &nbsp; ![Building](https://img.shields.io/badge/●_Building-eab308?style=flat-square)
 
 **Agentic Repository Analyzer**
 
-Analyzes repo structure — extracts file hierarchy, dependency patterns, workflow signals, and security insights from large codebases.
+<sub>Analyzes repo structure — extracts file hierarchy, dependency patterns, workflow signals, and security insights.</sub>
 
-`Go` `REST APIs` `GitHub API` `System Design`
+<br/>
 
-[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%23888888" width="14"/> View Project](https://github.com/harshsinghsv)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+<br/>
+
+[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%2322c55e" width="13"/> &nbsp; **View Project**](https://github.com/harshsinghsv)
+
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-<img src="https://api.iconify.design/solar/chat-round-bold.svg?color=%2322c55e" width="16"/> &nbsp; **Instagram Auto DM** &nbsp; ![Live](https://img.shields.io/badge/●%20Live-22c55e?style=flat-square)
+<img src="https://api.iconify.design/solar/chat-round-bold.svg?color=%2322c55e" width="14"/> &nbsp; **Instagram Auto DM** &nbsp; &nbsp; ![Live](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
 
 **Webhook-Driven Messaging System**
 
-Go-based auto DM system handling Instagram Graph API webhooks with concurrent processing and a React.js management dashboard.
+<sub>Go-based auto DM system with Instagram Graph API, concurrent webhook processing and React.js dashboard.</sub>
 
-`Go` `Instagram Graph API` `Webhooks` `React.js`
+<br/>
 
-[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%23888888" width="14"/> View Project](https://github.com/harshsinghsv)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Instagram API](https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+<br/>
+
+[<img src="https://api.iconify.design/solar/arrow-right-up-bold.svg?color=%2322c55e" width="13"/> &nbsp; **View Project**](https://github.com/harshsinghsv)
+
+<br/>
 </td>
 </tr>
 </table>
 
 ---
 
-### <img src="https://api.iconify.design/solar/document-text-bold.svg?color=%2322c55e" width="20"/> Blogs
-
-> Coming soon — publishing on system design, backend engineering, and developer tooling.
-
-| <img src="https://api.iconify.design/solar/tag-bold.svg?color=%23888888" width="14"/> Title | <img src="https://api.iconify.design/solar/calendar-bold.svg?color=%23888888" width="14"/> Date | Tags |
-|---|---|---|
-| Building MatesVilla: From Idea to Location-Aware Platform | Soon | `Go` `PostgreSQL` `Maps` |
-| Instagram Webhook Integration with Go: A Complete Guide | Soon | `Go` `Webhooks` `API` |
-| System Design for Beginners: Thinking in Scale | Soon | `SystemDesign` `Backend` |
-
----
-
-### <img src="https://api.iconify.design/solar/settings-bold.svg?color=%2322c55e" width="20"/> Skills & Technologies
+### <img src="https://api.iconify.design/solar/settings-bold.svg?color=%2322c55e" width="18"/> &nbsp; Skills & Technologies
 
 <br/>
 
-<img src="https://api.iconify.design/solar/code-bold.svg?color=%23888888" width="14"/> &nbsp; **Languages**
+<img src="https://api.iconify.design/solar/code-bold.svg?color=%23888888" width="13"/> &nbsp; **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -386,20 +426,26 @@ Go-based auto DM system handling Instagram Graph API webhooks with concurrent pr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img src="https://api.iconify.design/solar/layers-bold.svg?color=%23888888" width="14"/> &nbsp; **Frameworks & Libraries**
+<br/>
+
+<img src="https://api.iconify.design/solar/layers-bold.svg?color=%23888888" width="13"/> &nbsp; **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<img src="https://api.iconify.design/solar/database-bold.svg?color=%23888888" width="14"/> &nbsp; **Databases**
+<br/>
+
+<img src="https://api.iconify.design/solar/database-bold.svg?color=%23888888" width="13"/> &nbsp; **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<img src="https://api.iconify.design/solar/wrench-bold.svg?color=%23888888" width="14"/> &nbsp; **Tools & Platforms**
+<br/>
+
+<img src="https://api.iconify.design/solar/wrench-bold.svg?color=%23888888" width="13"/> &nbsp; **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -407,7 +453,9 @@ Go-based auto DM system handling Instagram Graph API webhooks with concurrent pr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<img src="https://api.iconify.design/solar/link-bold.svg?color=%23888888" width="14"/> &nbsp; **APIs & Integrations**
+<br/>
+
+<img src="https://api.iconify.design/solar/link-bold.svg?color=%23888888" width="13"/> &nbsp; **APIs & Integrations**
 
 ![Webhooks](https://img.shields.io/badge/Webhooks-6D28D9?style=flat-square&logo=zapier&logoColor=white)
 ![Instagram API](https://img.shields.io/badge/Instagram_Graph_API-E4405F?style=flat-square&logo=instagram&logoColor=white)
@@ -415,34 +463,38 @@ Go-based auto DM system handling Instagram Graph API webhooks with concurrent pr
 
 ---
 
-### <img src="https://api.iconify.design/solar/cup-star-bold.svg?color=%23f59e0b" width="20"/> Achievements
+### <img src="https://api.iconify.design/solar/cup-star-bold.svg?color=%23f59e0b" width="18"/> &nbsp; Achievements
 
 <br/>
 
-<img src="https://api.iconify.design/solar/medal-ribbons-star-bold.svg?color=%23f59e0b" width="16"/> &nbsp; **SIH 2025 Finalist** — Smart India Hackathon &nbsp; `Nov 2025`
+<img src="https://api.iconify.design/solar/medal-ribbons-star-bold.svg?color=%23f59e0b" width="14"/> &nbsp; **SIH 2025 Finalist** &nbsp; — &nbsp; Smart India Hackathon &nbsp; `Nov 2025`
 
-&nbsp;&nbsp;&nbsp;&nbsp; Built a prototype AI/ML-based decision support system for optimizing rake formation and dispatch planning in logistics for SAIL. Worked on system design and optimization logic for large-scale operations.
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23f59e0b" width="12"/> &nbsp; Built an AI/ML-based decision support system for optimizing rake formation & dispatch planning for **SAIL**
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/solar/arrow-right-bold.svg?color=%23f59e0b" width="12"/> &nbsp; Worked on system design and optimization logic for large-scale logistics operations
 
 ---
 
-### <img src="https://api.iconify.design/solar/heart-bold.svg?color=%2322c55e" width="20"/> Interests
+### <img src="https://api.iconify.design/solar/heart-bold.svg?color=%2322c55e" width="18"/> &nbsp; Interests
 
 <br/>
 
-<img src="https://api.iconify.design/solar/server-bold.svg?color=%23888888" width="14"/> &nbsp; Distributed Systems & Scalability &nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/solar/graph-new-bold.svg?color=%23888888" width="14"/> &nbsp; System Design &nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/solar/cpu-bolt-bold.svg?color=%23888888" width="14"/> &nbsp; Applied ML & AI Engineering
-
-<img src="https://api.iconify.design/solar/code-square-bold.svg?color=%23888888" width="14"/> &nbsp; Developer Tools & Automation &nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/solar/rocket-bold.svg?color=%23888888" width="14"/> &nbsp; Hackathons & Rapid Prototyping
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1f2937?style=flat-square&logo=apachekafka&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-1f2937?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Applied ML](https://img.shields.io/badge/Applied_ML_&_AI-1f2937?style=flat-square&logo=openai&logoColor=white)
+![Dev Tools](https://img.shields.io/badge/Developer_Tools-1f2937?style=flat-square&logo=githubactions&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-1f2937?style=flat-square&logo=devpost&logoColor=white)
 
 ---
 
 <div align="center">
 
-<img src="https://api.iconify.design/solar/quote-up-bold.svg?color=%231f1f1f" width="48"/>
-
 <br/>
+
+<img src="https://api.iconify.design/solar/quote-up-circle-bold.svg?color=%23222222" width="42"/>
+
+<br/><br/>
 
 *"Do so much work that it would be unreasonable for you to not be successful."*
 
@@ -450,10 +502,8 @@ Go-based auto DM system handling Instagram Graph API webhooks with concurrent pr
 
 **— ALEX HORMOZI**
 
-<br/>
+<br/><br/>
 
----
-
-<img src="https://api.iconify.design/solar/star-bold.svg?color=%2322c55e" width="14"/> &nbsp; *If you find my work interesting, consider starring my repos!*
+<img src="https://api.iconify.design/solar/star-bold.svg?color=%2322c55e" width="13"/> &nbsp; *If you find my work interesting, consider starring my repos!*
 
 </div>
