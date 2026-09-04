@@ -23,76 +23,9 @@
 
 <br/>
 
-## `> whoami`
-
-```ts
-const harsh = {
-  name      : "Harsh Singh",
-  location  : "India 🇮🇳",
-  role      : "Full-Stack Developer & CS Student",
-
-  building  : ["Shaderz", "Muxury", "WhatsApp Marketing SaaS", "GitSaga"],
-  studying  : ["System Design (Arpit Bhayani)", "DSA", "TypeScript Internals"],
-  obsessions: ["pixel-perfect UI", "clean architecture", "shipping > perfecting"],
-
-  funFact   : "I benchmark my UIs against Stripe & Linear, not tutorials."
-} satisfies Developer;
-```
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-## `> currently-shipping`
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 🌀 Shaderz
-GPU-accelerated shader UI components for **React**, **Vue** & **Vanilla JS**. Zero-config, drop-in visuals.
-
-[![Live](https://img.shields.io/badge/shaderz.xyz-▶%20LIVE-00D9FF?style=flat-square)](https://shaderz.xyz)
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🛍 Muxury
-Premium ecommerce platform — full-stack, production-grade. Custom auth, Razorpay, admin analytics.
-
-[![WIP](https://img.shields.io/badge/status-shipping-FF006E?style=flat-square)](#)
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 📲 WA SaaS
-WhatsApp marketing automation — bulk messaging, flows, analytics. Inspired by WATI & AISensy.
-
-[![WIP](https://img.shields.io/badge/status-in_dev-7B2D8E?style=flat-square)](#)
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🔬 GitSaga
-Code analysis & repo intelligence tool. Dark-mode instrument-panel aesthetic. Think GitLens, but cooler.
-
-[![WIP](https://img.shields.io/badge/status-prototyping-555?style=flat-square)](#)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## `> tech-stack`
 
 <div align="center">
 
@@ -135,18 +68,6 @@ Code analysis & repo intelligence tool. Dark-mode instrument-panel aesthetic. Th
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## `> roadmap-2026`
-
-```
-Mar–May   ██████████░░░░░░░░░░  React, TypeScript, Tailwind Deep Dives
-Jun–Aug   ████████░░░░░░░░░░░░  Node.js, System Design, DSA Grind
-Sep–Oct   ██████░░░░░░░░░░░░░░  OS, Networks, DBMS (CS Fundamentals)
-Nov–Dec   ████░░░░░░░░░░░░░░░░  AI / Agents, DevOps, Distributed Systems
-```
-> *Target: a portfolio strong enough to speak for itself.*
 
 <br/>
 
