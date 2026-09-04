@@ -45,7 +45,7 @@
 
 <br/>
 
-## `> analytics`
+## `> Analytics`
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF" />
@@ -74,45 +74,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-## `> contribution-grid`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshsinghsv/harshsinghsv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<details>
-<summary><b>⚙️ Setup Snake Animation (GitHub Actions)</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
-        with:
-          github_user_name: harshsinghsv
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 </details>
 
