@@ -1,4 +1,3 @@
-<!-- Profile README for github.com/harshsinghsv — save as README.md in the repo named "harshsinghsv" -->
 
 <div align="center">
 
@@ -21,88 +20,49 @@
 
 ---
 
-## ⚡ About
+## About
 
-```ts
-const harsh = {
-  role: "Full-Stack Developer",
-  focus: ["Product UI", "Design systems", "WebGL / GLSL shaders"],
-  philosophy: "Ship fast, sweat the details, benchmark against the best.",
-  currently: "Focusing.",
-  openTo: ["Collaborations", "Interesting problems", "Strong teams"],
-} as const;
-```
+Full-stack developer focused on product UI, design systems and shader programming. I've been benchmarking my interfaces against top SaaS products since 2023, and I care about the details that make software feel finished.
 
-- 🎨 I obsess over interface quality, and have been benchmarking my UIs against top SaaS products since 2023.
-- 🧪 I build creative tooling and shader experiments, and share them at [shaderz.xyz](https://www.shaderz.xyz).
-- 🤝 If you have a hard problem and need someone who cares about both the backend and the pixels, let's talk.
+I share my shader work at [shaderz.xyz](https://www.shaderz.xyz). I'm open to collaborations and interesting problems.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌈 <a href="https://github.com/harshsinghsv/shaders-library">shaders-library</a></h3>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/harshsinghsv/shaders-library">shaders-library</a></h3>
       <p>A library of ready-to-use shader effects for the web, with live previews.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
       </p>
-      <a href="https://www.shaderz.xyz/">🔗 Live demo</a>
+      <a href="https://www.shaderz.xyz/">Live demo</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>👗 <a href="https://github.com/harshsinghsv/muxury-frontend">muxury-frontend</a></h3>
-      <p>Mobile-first luxury fashion e-commerce front end, built to feel like a native app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <a href="https://muxury-frontend.vercel.app">🔗 Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/harshsinghsv/veda-ai">veda-ai</a></h3>
-      <p>AI-powered application built with TypeScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </p>
-      <a href="https://veda-ai.harshhh.me">🔗 Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/harshsinghsv/instagram-auto-dm">instagram-auto-dm</a></h3>
-      <p>Instagram DM automation tool written in Go.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/harshsinghsv/ai-sales">ai-sales</a></h3>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/harshsinghsv/ai-sales">ai-sales</a></h3>
       <p>AI sales assistant with a deployed web app.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://ai-sales-teal.vercel.app">🔗 Live demo</a>
+      <a href="https://ai-sales-teal.vercel.app">Live demo</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔔 <a href="https://github.com/harshsinghsv/nudge-app">nudge-app</a> · <a href="https://github.com/harshsinghsv/nudge-dashboard">nudge-dashboard</a></h3>
-      <p>Nudge app and its companion dashboard.</p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/harshsinghsv/instagram-auto-dm">instagram-auto-dm</a></h3>
+      <p>Instagram DM automation tool written in Go.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       </p>
+      <a href="https://github.com/harshsinghsv/instagram-auto-dm">Source</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -118,7 +78,7 @@ const harsh = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -127,33 +87,11 @@ const harsh = {
 
 <img src="https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshsinghsv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
-<details>
-<summary><b>📈 Contribution graph</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" width="100%" />
-</div>
-</details>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-2563EB?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/👯_Pair_Extraordinaire-7C3AED?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-F59E0B?style=for-the-badge)
-
 </div>
 
 ---
 
-## 🤝 Let's Build Something
+## Let's Work Together
 
 I'm open to collaborations, freelance work and interesting engineering problems.
 
