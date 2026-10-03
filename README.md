@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Scalable%20Systems%20%C2%B7%20Infrastructure%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Scalable%20Systems%20-%20Open%20Source%20-%20UI%20Design&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
 
 <a href="https://github.com/harshsinghsv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+and+infrastructure+engineer;Designing+systems+that+scale;Caching%2C+queues+and+distributed+infra;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Backend+and+infrastructure+engineer;Caching%2C+queues+and+distributed+systems;Open+source+contributor;UI+design+and+product+craft;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
 </a>
 
 <br/>
@@ -20,7 +20,9 @@
 
 ## About
 
-Backend and infrastructure engineer building scalable systems. I design and ship services that hold up under load: APIs, caching layers, queues, databases and the infrastructure they run on. I also care about product-grade UI, and have been benchmarking my interfaces against top SaaS products since 2025.
+Backend and infrastructure engineer building scalable systems. I design and ship services that hold up under load: APIs, caching layers, queues, distributed infrastructure, databases and the platforms they run on.
+
+I contribute to open source, and UI design is the other half of what I do. I've been benchmarking my interfaces against top SaaS products since 2025.
 
 I'm open to collaborations and interesting problems, especially around scale.
 
