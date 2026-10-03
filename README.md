@@ -1,102 +1,167 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HARSH%20SINGH&fontSize=82&color=0:00D9FF,50:7B2D8E,100:FF006E&stroke=00D9FF&strokeWidth=2&animation=twinkling&fontColor=fff&desc=%3E%20Full-Stack%20Dev%20%2F%2F%20UI%20Obsessive%20%2F%2F%20Perpetual%20Builder&descSize=17&descAlignY=67"/>
-</div>
-
-<br/>
+<!-- Profile README for github.com/harshsinghsv — save as README.md in the repo named "harshsinghsv" -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=const+harsh+%3D+new+Developer(%7B+stack%3A+'full'+%7D)%3B;harsh.ship(%22shaderz%22).then(()%3D%3E+harsh.ship(%22next%22))%3B;%2F%2F+benchmarking+UIs+against+top+SaaS+since+2023;%2F%2F+open+to+collabs+%26+interesting+problems+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Craft%20%C2%B7%20Shader%20Programming&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
+
+<a href="https://github.com/harshsinghsv">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+polished+products+end-to-end;Benchmarking+UIs+against+top+SaaS+since+2023;Turning+GLSL+into+pixels+that+move;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaderz.xyz-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.shaderz.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshsinghsv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+[![X](https://img.shields.io/badge/X-@harshsinghsv-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harshsinghsv)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsinghsv@hotmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=harshsinghsv&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <a href="https://x.com/harshsinghsv"><img src="https://img.shields.io/badge/𝕏 Twitter-%23000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/harshsinghsv"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:harshsinghsv@hotmail.com"><img src="https://img.shields.io/badge/Email-%2300D9FF.svg?style=for-the-badge&logo=minutemailer&logoColor=black"/></a>&nbsp;
-  <a href="https://shaderz.xyz"><img src="https://img.shields.io/badge/🌀 shaderz.xyz-%23FF006E.svg?style=for-the-badge&logoColor=white"/></a>
-</div>
+## ⚡ About
 
-<br/>
+```ts
+const harsh = {
+  role: "Full-Stack Developer",
+  focus: ["Product UI", "Design systems", "WebGL / GLSL shaders"],
+  philosophy: "Ship fast, sweat the details, benchmark against the best.",
+  currently: "Focusing.",
+  openTo: ["Collaborations", "Interesting problems", "Strong teams"],
+} as const;
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🎨 I obsess over interface quality, and have been benchmarking my UIs against top SaaS products since 2023.
+- 🧪 I build creative tooling and shader experiments, and share them at [shaderz.xyz](https://www.shaderz.xyz).
+- 🤝 If you have a hard problem and need someone who cares about both the backend and the pixels, let's talk.
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🚀 Featured Projects
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌈 <a href="https://github.com/harshsinghsv/shaders-library">shaders-library</a></h3>
+      <p>A library of ready-to-use shader effects for the web, with live previews.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      </p>
+      <a href="https://www.shaderz.xyz/">🔗 Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👗 <a href="https://github.com/harshsinghsv/muxury-frontend">muxury-frontend</a></h3>
+      <p>Mobile-first luxury fashion e-commerce front end, built to feel like a native app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <a href="https://muxury-frontend.vercel.app">🔗 Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/harshsinghsv/veda-ai">veda-ai</a></h3>
+      <p>AI-powered application built with TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+      <a href="https://veda-ai.harshhh.me">🔗 Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/harshsinghsv/instagram-auto-dm">instagram-auto-dm</a></h3>
+      <p>Instagram DM automation tool written in Go.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/harshsinghsv/ai-sales">ai-sales</a></h3>
+      <p>AI sales assistant with a deployed web app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://ai-sales-teal.vercel.app">🔗 Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/harshsinghsv/nudge-app">nudge-app</a> · <a href="https://github.com/harshsinghsv/nudge-dashboard">nudge-dashboard</a></h3>
+      <p>Nudge app and its companion dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark" alt="Frontend" />
 
-**Backend & Infra**
+**Backend & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,python,docker,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,py,go,docker,git,vercel&theme=dark" alt="Backend" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## `> Analytics`
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF" />
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshsinghsv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=harshsinghsv&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshsinghsv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsinghsv&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D9FF&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&custom_title=Contribution+Activity&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area_color=7B2D8E&area=true&hide_border=true&radius=8" width="96%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshsinghsv&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
-</div>
-
+<details>
+<summary><b>📈 Contribution graph</b></summary>
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshsinghsv&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" width="100%" />
+</div>
 </details>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-2563EB?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/👯_Pair_Extraordinaire-7C3AED?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/🎲_YOLO-F59E0B?style=for-the-badge)
+
 </div>
 
-<br/>
+---
+
+## 🤝 Let's Build Something
+
+I'm open to collaborations, freelance work and interesting engineering problems.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshsinghsv&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&base=1337"/>
+
+[![Email me](https://img.shields.io/badge/Email_me-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:harshsinghsv@hotmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer" />
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=110&section=footer&animation=twinkling"/>
-</div>
-
-
