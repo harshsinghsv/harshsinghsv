@@ -1,20 +1,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Craft%20%C2%B7%20Shader%20Programming&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Scalable%20Systems%20%C2%B7%20Infrastructure%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
 
 <a href="https://github.com/harshsinghsv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+polished+products+end-to-end;Benchmarking+UIs+against+top+SaaS+since+2023;Turning+GLSL+into+pixels+that+move;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+and+infrastructure+engineer;Designing+systems+that+scale;Caching%2C+queues+and+distributed+infra;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shaderz.xyz-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://www.shaderz.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshhh.me-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://harshhh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshsinghsv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsinghsv)
 [![X](https://img.shields.io/badge/X-@harshsinghsv-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harshsinghsv)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsinghsv@hotmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=harshsinghsv&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -22,9 +20,9 @@
 
 ## About
 
-Full-stack developer focused on product UI, design systems and shader programming. I've been benchmarking my interfaces against top SaaS products since 2023, and I care about the details that make software feel finished.
+Backend and infrastructure engineer building scalable systems. I design and ship services that hold up under load: APIs, caching layers, queues, databases and the infrastructure they run on. I also care about product-grade UI, and have been benchmarking my interfaces against top SaaS products since 2025.
 
-I share my shader work at [shaderz.xyz](https://www.shaderz.xyz). I'm open to collaborations and interesting problems.
+I'm open to collaborations and interesting problems, especially around scale.
 
 ---
 
@@ -70,9 +68,9 @@ I share my shader work at [shaderz.xyz](https://www.shaderz.xyz). I'm open to co
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark" alt="Frontend" />
 
-**Backend & Infrastructure**
+**Backend, Scaling & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,py,go,docker,git,vercel&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,py,postgres,mongodb,redis,prisma,kafka,rabbitmq,nginx,docker,kubernetes,aws,linux,grafana,prometheus,git&theme=dark" alt="Backend" />
 
 </div>
 
