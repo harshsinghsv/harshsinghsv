@@ -47,40 +47,6 @@ I contribute to open source, and UI design is the other half of what I do. I'm o
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/harshsinghsv/shaders-library">shaders-library</a></h3>
-      <p>A library of ready-to-use shader effects for the web, with live previews.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-      </p>
-      <a href="https://www.shaderz.xyz/">Live demo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/harshsinghsv/ai-sales">ai-sales</a></h3>
-      <p>AI sales assistant with a deployed web app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="https://ai-sales-teal.vercel.app">Live demo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/harshsinghsv/instagram-auto-dm">instagram-auto-dm</a></h3>
-      <p>Instagram DM automation tool written in Go.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      </p>
-      <a href="https://github.com/harshsinghsv/instagram-auto-dm">Source</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Stack
 
 <div align="center">
