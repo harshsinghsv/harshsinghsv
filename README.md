@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20-%20Scalable%20Systems%20-%20UI%20Design&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20-%20Builder%20of%20SwiftDL&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Harsh Singh banner" />
 
 <a href="https://github.com/harshsinghsv">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Backend+developer;I+build+systems+that+scale;Open+source+contributor;UI+design+and+product+craft;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+stack+developer;Building+SwiftDL%2C+an+open-source+download+manager;Rust%2C+Go+and+TypeScript;UI+design+and+product+craft;Open+to+collaborating+on+interesting+problems" alt="Typing animation" />
 </a>
 
 <br/>
@@ -20,11 +20,30 @@
 
 ## About
 
-Backend developer who builds scalable systems. I write the APIs and services, and I know how to scale them as traffic grows.
+Full stack developer who builds clean, fast products, from the interface down to the systems behind it. I write the APIs and services, and I know how to scale them as traffic grows.
 
-I contribute to open source, and UI design is the other half of what I do. I've been benchmarking my interfaces against top SaaS products since 2025.
+I contribute to open source, and UI design is the other half of what I do. I'm open to collaborations and interesting problems.
 
-I'm open to collaborations and interesting problems.
+---
+
+## Currently building
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/harshsinghsv/swiftdl">SwiftDL</a></h3>
+      <p>A free, open-source download manager for Windows, macOS and Linux. It splits every file across many connections, writes each part straight into place with nothing to merge, resumes after crashes or dropped Wi-Fi, and saves videos from YouTube and most sites in up to 4K and HDR.</p>
+      <p>
+        <a href="https://github.com/harshsinghsv/swiftdl/stargazers"><img src="https://img.shields.io/github/stars/harshsinghsv/swiftdl?style=flat-square&color=007aff" alt="Stars" /></a>
+        <a href="https://github.com/harshsinghsv/swiftdl/releases/latest"><img src="https://img.shields.io/github/v/release/harshsinghsv/swiftdl?style=flat-square&color=555&label=release" alt="Latest release" /></a>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://swiftdl.harshhh.me">Website</a> · <a href="https://github.com/harshsinghsv/swiftdl/releases/latest">Download</a> · <a href="https://github.com/harshsinghsv/swiftdl">Source</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,9 +89,9 @@ I'm open to collaborations and interesting problems.
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark" alt="Frontend" />
 
-**Backend, Scaling & Infrastructure**
+**Backend, Desktop, Scaling & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,py,postgres,mongodb,redis,prisma,kafka,rabbitmq,nginx,docker,kubernetes,aws,linux,grafana,prometheus,git&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=rust,tauri,nodejs,express,go,py,postgres,mongodb,redis,prisma,kafka,rabbitmq,nginx,docker,kubernetes,aws,linux,grafana,prometheus,git&theme=dark" alt="Backend" />
 
 </div>
 
